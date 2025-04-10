@@ -33,7 +33,7 @@ To run City Cab locally, follow these steps:
 
 1. *Clone the Repository*:
    bash
-   git clone https://github.com/JaitulGondaliya/city-cab.git
+   git clone https://github.com/JaitulGondaliya/City-Cab.git
    
    (Replace your-username with your GitHub username and update the repo name as needed.)
 
